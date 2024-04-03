@@ -11,9 +11,8 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Fakultas Teknik Informatika | Universitas Islam Riau
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener"></a>
-      <a href="https://vuejs.org/" target="_blank" rel="noopener"></a>
+      Perkenalkan saya Oga Jira Paltarest biasa di panggil Aress,saya tinggal di Sumatrea Barat
+      lebih tepatnya di Pariaman.
     </h3>
   </div>
 </template>
